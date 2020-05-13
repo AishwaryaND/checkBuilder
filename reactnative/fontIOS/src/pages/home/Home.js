@@ -14,7 +14,7 @@ const Home: () => React$Node = () => {
         >
           <View style={styles.body}>
             <Text style={styles.welcome}>
-              Welcome to IBM Digital App Builder aaa
+              Welcome to IBM Digital App Builder aaa working.......
             </Text>
           </View>
         </ScrollView>
