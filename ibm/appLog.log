@@ -1,0 +1,631 @@
+Project created on Wed May 13 2020, 14:16:31 GMT+0530 (India Standard Time)
+
+ Info | datasourceDB | init | Wed May 13 2020, 14:16:31 GMT+0530 (India Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Wed May 13 2020, 14:16:31 GMT+0530 (India Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Wed May 13 2020, 14:16:31 GMT+0530 (India Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Wed May 13 2020, 14:16:31 GMT+0530 (India Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Wed May 13 2020, 14:16:31 GMT+0530 (India Standard Time) | App DB initialized
+ Info | settingsDB | init | Wed May 13 2020, 14:16:31 GMT+0530 (India Standard Time) | SettingsDB initialized
+Success | projectHandler | createReactNativeProject | Wed May 13 2020, 14:16:31 GMT+0530 (India Standard Time) | Initialized all the DB's
+ Info | projectHandler | createReactNativeProject | Wed May 13 2020, 14:16:38 GMT+0530 (India Standard Time) |                                                           
+               ######                ######               
+             ###     ####        ####     ###             
+            ##          ###    ###          ##            
+            ##             ####             ##            
+            ##             ####             ##            
+            ##           ##    ##           ##            
+            ##         ###      ###         ##            
+             ##  ########################  ##             
+          ######    ###            ###    ######          
+      ###     ##    ##              ##    ##     ###      
+   ###         ## ###      ####      ### ##         ###   
+  ##           ####      ########      ####           ##  
+ ##             ###     ##########     ###             ## 
+  ##           ####      ########      ####           ##  
+   ###         ## ###      ####      ### ##         ###   
+      ###     ##    ##              ##    ##     ###      
+          ######    ###            ###    ######          
+             ##  ########################  ##             
+            ##         ###      ###         ##            
+            ##           ##    ##           ##            
+            ##             ####             ##            
+            ##             ####             ##            
+            ##          ###    ###          ##            
+             ###     ####        ####     ###             
+               ######                ######               
+                                                          
+
+                  Welcome to React Native!                
+                 Learn once, write anywhere               
+
+
+ Error | projectHandler | createReactNativeProject | Wed May 13 2020, 14:16:38 GMT+0530 (India Standard Time) | - Downloading template
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157314:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157271:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157311:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19044:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Wed May 13 2020, 14:16:40 GMT+0530 (India Standard Time) | ✔ Downloading template
+- Copying template
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157314:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157271:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157311:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19044:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Wed May 13 2020, 14:16:40 GMT+0530 (India Standard Time) | ✔ Copying template
+- Processing template
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157314:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157271:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157311:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19044:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Wed May 13 2020, 14:16:40 GMT+0530 (India Standard Time) | ✔ Processing template
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157314:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157271:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157311:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19044:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Wed May 13 2020, 14:16:40 GMT+0530 (India Standard Time) | - Installing dependencies
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157314:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157271:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157311:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19044:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | projectHandler | createReactNativeProject | Wed May 13 2020, 14:17:07 GMT+0530 (India Standard Time) |                                                           
+               ######                ######               
+             ###     ####        ####     ###             
+            ##          ###    ###          ##            
+            ##             ####             ##            
+            ##             ####             ##            
+            ##           ##    ##           ##            
+            ##         ###      ###         ##            
+             ##  ########################  ##             
+          ######    ###            ###    ######          
+      ###     ##    ##              ##    ##     ###      
+   ###         ## ###      ####      ### ##         ###   
+  ##           ####      ########      ####           ##  
+ ##             ###     ##########     ###             ## 
+  ##           ####      ########      ####           ##  
+   ###         ## ###      ####      ### ##         ###   
+      ###     ##    ##              ##    ##     ###      
+          ######    ###            ###    ######          
+             ##  ########################  ##             
+            ##         ###      ###         ##            
+            ##           ##    ##           ##            
+            ##             ####             ##            
+            ##             ####             ##            
+            ##          ###    ###          ##            
+             ###     ####        ####     ###             
+               ######                ######               
+                                                          
+
+                  Welcome to React Native!                
+                 Learn once, write anywhere               
+
+
+ Error | projectHandler | createReactNativeProject | Wed May 13 2020, 14:17:07 GMT+0530 (India Standard Time) | - Downloading template
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157314:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157271:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157311:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19044:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Wed May 13 2020, 14:17:10 GMT+0530 (India Standard Time) | ✔ Downloading template
+- Copying template
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157314:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157271:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157311:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19044:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Wed May 13 2020, 14:17:10 GMT+0530 (India Standard Time) | ✔ Copying template
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157314:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157271:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157311:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19044:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Wed May 13 2020, 14:17:10 GMT+0530 (India Standard Time) | - Processing template
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157314:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157271:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157311:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19044:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Wed May 13 2020, 14:17:10 GMT+0530 (India Standard Time) | ✔ Processing template
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157314:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157271:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157311:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19044:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Wed May 13 2020, 14:17:10 GMT+0530 (India Standard Time) | - Installing dependencies
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157314:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157271:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157311:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19044:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Wed May 13 2020, 14:17:38 GMT+0530 (India Standard Time) | - Installing CocoaPods dependencies (this may take a few minutes)
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157314:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157271:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157311:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19044:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Wed May 13 2020, 14:18:12 GMT+0530 (India Standard Time) | ✔ Installing CocoaPods dependencies (this may take a few minutes)
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157314:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157271:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157311:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19044:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | projectHandler | createReactNativeProject | Wed May 13 2020, 14:18:12 GMT+0530 (India Standard Time) | 
+  Run instructions for iOS:
+    • cd "/Users/aishwaryadodmani/Desktop/fontssssIonic/reactnative/fontssssIonic" && npx react-native run-ios
+    - or -
+    • Open fontssssIonic/ios/fontssssIonic.xcworkspace in Xcode or run "xed -b ios"
+    • Hit the Run button
+
+  Run instructions for Android:
+    • Have an Android emulator running (quickest way to get started), or a device connected.
+    • cd "/Users/aishwaryadodmani/Desktop/fontssssIonic/reactnative/fontssssIonic" && npx react-native run-android
+
+
+ Info | projectHandler | createReactNativeProject | Wed May 13 2020, 14:18:20 GMT+0530 (India Standard Time) | Attempting to create app on server
+ Info | projectHandler | createReactNativeProject | Wed May 13 2020, 14:18:20 GMT+0530 (India Standard Time) | Attempting to run pod install for ios project
+Success | CreatingAppActions | createNewAppOnServer | Wed May 13 2020, 14:18:21 GMT+0530 (India Standard Time) | App created on the server successfully for 'android' platform
+ Info | ImportExportConfig | exportAppConfiguration | Wed May 13 2020, 14:18:21 GMT+0530 (India Standard Time) | Exported project configuration successfully
+Success | CreatingAppActions | createNewAppOnServer | Wed May 13 2020, 14:18:21 GMT+0530 (India Standard Time) | App created on the server successfully for 'ios' platform
+ Info | ImportExportConfig | exportAppConfiguration | Wed May 13 2020, 14:18:21 GMT+0530 (India Standard Time) | Exported project configuration successfully
+ Info | projectHandler | createReactNativeProject | Wed May 13 2020, 14:18:23 GMT+0530 (India Standard Time) | Detected React Native module pods for RNCMaskedView, RNGestureHandler, RNReanimated, RNScreens, react-native-ibm-mobilefirst, and react-native-safe-area-context
+Analyzing dependencies
+
+ Info | projectHandler | createReactNativeProject | Wed May 13 2020, 14:18:30 GMT+0530 (India Standard Time) | Downloading dependencies
+Generating Pods project
+Integrating client project
+Pod installation complete! There are 34 dependencies from the Podfile and 33 total pods installed.
+
+Success | projectHandler | createReactNativeProject | Wed May 13 2020, 14:18:30 GMT+0530 (India Standard Time) | All done! You are ready to rock and roll
+ Error | projectHandler | createReactNativeProject | Wed May 13 2020, 14:18:31 GMT+0530 (India Standard Time) | - Installing CocoaPods dependencies (this may take a few minutes)
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157314:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157271:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157311:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19044:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Wed May 13 2020, 14:18:41 GMT+0530 (India Standard Time) | ✔ Installing CocoaPods dependencies (this may take a few minutes)
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157314:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157271:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157311:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19044:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | projectHandler | createReactNativeProject | Wed May 13 2020, 14:18:41 GMT+0530 (India Standard Time) | 
+  Run instructions for iOS:
+    • cd "/Users/aishwaryadodmani/Desktop/fontIOS/reactnative/fontIOS" && npx react-native run-ios
+    - or -
+    • Open fontIOS/ios/fontIOS.xcworkspace in Xcode or run "xed -b ios"
+    • Hit the Run button
+
+  Run instructions for Android:
+    • Have an Android emulator running (quickest way to get started), or a device connected.
+    • cd "/Users/aishwaryadodmani/Desktop/fontIOS/reactnative/fontIOS" && npx react-native run-android
+
+
+ Info | projectHandler | createReactNativeProject | Wed May 13 2020, 14:18:50 GMT+0530 (India Standard Time) | Attempting to create app on server
+ Info | projectHandler | createReactNativeProject | Wed May 13 2020, 14:18:50 GMT+0530 (India Standard Time) | Attempting to run pod install for ios project
+Success | CreatingAppActions | createNewAppOnServer | Wed May 13 2020, 14:18:51 GMT+0530 (India Standard Time) | App created on the server successfully for 'android' platform
+ Info | ImportExportConfig | exportAppConfiguration | Wed May 13 2020, 14:18:51 GMT+0530 (India Standard Time) | Exported project configuration successfully
+Success | CreatingAppActions | createNewAppOnServer | Wed May 13 2020, 14:18:51 GMT+0530 (India Standard Time) | App created on the server successfully for 'ios' platform
+ Info | ImportExportConfig | exportAppConfiguration | Wed May 13 2020, 14:18:51 GMT+0530 (India Standard Time) | Exported project configuration successfully
+ Info | projectHandler | createReactNativeProject | Wed May 13 2020, 14:18:52 GMT+0530 (India Standard Time) | Detected React Native module pods for RNCMaskedView, RNGestureHandler, RNReanimated, RNScreens, react-native-ibm-mobilefirst, and react-native-safe-area-context
+Analyzing dependencies
+
+ Info | projectHandler | createReactNativeProject | Wed May 13 2020, 14:18:56 GMT+0530 (India Standard Time) | Downloading dependencies
+Generating Pods project
+Integrating client project
+Pod installation complete! There are 34 dependencies from the Podfile and 33 total pods installed.
+
+Success | projectHandler | createReactNativeProject | Wed May 13 2020, 14:18:56 GMT+0530 (India Standard Time) | All done! You are ready to rock and roll
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:19:21 GMT+0530 (India Standard Time) | info Found Xcode workspace "fontIOS.xcworkspace"
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:19:22 GMT+0530 (India Standard Time) | info Launching iPhone 11 (iOS 13.3)
+
+ Info | projectHandler | loadProjectDatabase | Wed May 13 2020, 14:20:08 GMT+0530 (India Standard Time) | Initializing DBs for workspace  /Users/aishwaryadodmani/Desktop/fontIOS
+ Info | datasourceDB | init | Wed May 13 2020, 14:20:08 GMT+0530 (India Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Wed May 13 2020, 14:20:08 GMT+0530 (India Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Wed May 13 2020, 14:20:08 GMT+0530 (India Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Wed May 13 2020, 14:20:08 GMT+0530 (India Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Wed May 13 2020, 14:20:08 GMT+0530 (India Standard Time) | App DB initialized
+ Info | settingsDB | init | Wed May 13 2020, 14:20:08 GMT+0530 (India Standard Time) | SettingsDB initialized
+Success | projectHandler | loadProjectDatabase | Wed May 13 2020, 14:20:08 GMT+0530 (India Standard Time) | Initialized all the DBs
+ Info | FontManager | installFont | Wed May 13 2020, 14:20:25 GMT+0530 (India Standard Time) | Font has been added successfully
+ Info | ImportExportConfig | importConfiguration | Wed May 13 2020, 14:20:35 GMT+0530 (India Standard Time) | Imported project configuration successfully
+ Info | BuilderEditor | saveFile | Wed May 13 2020, 14:21:14 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/fontIOS/reactnative/fontIOS/src/pages/home/HomeStyle.js
+ Info | BuilderEditor | saveFile | Wed May 13 2020, 14:21:15 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/fontIOS/reactnative/fontIOS/src/pages/home/HomeStyle.js
+ Info | BuilderEditor | saveFile | Wed May 13 2020, 14:21:46 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/fontIOS/reactnative/fontIOS/src/pages/home/HomeStyle.js
+ Info | BuilderEditor | saveFile | Wed May 13 2020, 14:21:46 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/fontIOS/reactnative/fontIOS/src/pages/home/HomeStyle.js
+ Info | BuilderEditor | saveFile | Wed May 13 2020, 14:21:47 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/fontIOS/reactnative/fontIOS/src/pages/home/HomeStyle.js
+ Info | BuilderEditor | saveFile | Wed May 13 2020, 14:21:53 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/fontIOS/reactnative/fontIOS/src/pages/home/HomeStyle.js
+ Info | BuilderEditor | saveFile | Wed May 13 2020, 14:22:18 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/fontIOS/reactnative/fontIOS/src/pages/home/HomeStyle.js
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:22:23 GMT+0530 (India Standard Time) | info Running jetifier to migrate libraries to AndroidX. You can disable it using "--no-jetifier" flag.
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:22:24 GMT+0530 (India Standard Time) | Jetifier found 994 file(s) to forward-jetify. Using 8 workers...
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:22:24 GMT+0530 (India Standard Time) | info JS server already running.
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:22:25 GMT+0530 (India Standard Time) | info Launching emulator...
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:22:30 GMT+0530 (India Standard Time) | info Successfully launched emulator.
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:22:30 GMT+0530 (India Standard Time) | info Installing the app...
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:22:47 GMT+0530 (India Standard Time) | info Found Xcode workspace "fontIOS.xcworkspace"
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:22:50 GMT+0530 (India Standard Time) | info Building (using "xcodebuild -workspace fontIOS.xcworkspace -configuration Debug -scheme fontIOS -destination id=EFA18E02-149B-4F19-A5E2-87F976B78872")
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:23:04 GMT+0530 (India Standard Time) | 
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+A problem occurred configuring project ':app'.
+> The SDK directory '/usr/local/opt/gettext/bin:/Library/Frameworks/Python.framework/Versions/3.7/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/local/opt/maven@3.5/bin:/Users/aishwaryadodmani/Library/Android/sdk/tools:/Users/aishwaryadodmani/Library/Android/sdk/platform-tools:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/aishwaryadodmani/Library/Android/sdk/emulator:/Users/aishwaryadodmani/Library/Android/sdk/tools:/Users/aishwaryadodmani/Library/Android/sdk/tools/bin:/Users/aishwaryadodmani/Library/Android/sdk/platform-tools:/Users/aishwaryadodmani/Library/Android/sdk' does not exist.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+BUILD FAILED in 32s
+
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:23:04 GMT+0530 (India Standard Time) | Error: Command failed: ./gradlew app:installDebug -PreactNativeDevServerPort=8081
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+A problem occurred configuring project ':app'.
+> The SDK directory '/usr/local/opt/gettext/bin:/Library/Frameworks/Python.framework/Versions/3.7/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/local/opt/maven@3.5/bin:/Users/aishwaryadodmani/Library/Android/sdk/tools:/Users/aishwaryadodmani/Library/Android/sdk/platform-tools:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/aishwaryadodmani/Library/Android/sdk/emulator:/Users/aishwaryadodmani/Library/Android/sdk/tools:/Users/aishwaryadodmani/Library/Android/sdk/tools/bin:/Users/aishwaryadodmani/Library/Android/sdk/platform-tools:/Users/aishwaryadodmani/Library/Android/sdk' does not exist.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+BUILD FAILED in 32s
+
+    at checkExecSyncError (child_process.js:629:11)
+    at execFileSync (child_process.js:647:13)
+    at runOnAllDevices (/Users/aishwaryadodmani/Desktop/fontIOS/reactnative/fontIOS/node_modules/@react-native-community/cli-platform-android/build/commands/runAndroid/runOnAllDevices.js:94:39)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+ Error | IonicTopBar | runApp | Wed May 13 2020, 14:23:05 GMT+0530 (India Standard Time) | error Failed to install the app. Make sure you have the Android development environment set up: https://facebook.github.io/react-native/docs/getting-started.html#android-development-environment. Run CLI with --verbose flag for more details.
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157314:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157271:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157311:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:84615:31)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | IonicTopBar | runApp | Wed May 13 2020, 14:23:06 GMT+0530 (India Standard Time) | Error: Preview on Emulator failed.
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:23:13 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:23:13 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:23:18 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:23:24 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:23:24 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:23:25 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:23:25 GMT+0530 (India Standard Time) | ..........
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:23:25 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:23:26 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:23:30 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:23:30 GMT+0530 (India Standard Time) | .....
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:23:37 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:23:38 GMT+0530 (India Standard Time) | .............
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:23:38 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:23:38 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:23:39 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:23:39 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:23:39 GMT+0530 (India Standard Time) | 
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:23:47 GMT+0530 (India Standard Time) | info Installing "/Users/aishwaryadodmani/Library/Developer/Xcode/DerivedData/fontIOS-dtwnncfakfwzbacmdjwpalfzacpw/Build/Products/Debug-iphonesimulator/fontIOS.app"
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:23:49 GMT+0530 (India Standard Time) | info Launching "com.aish"
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:23:53 GMT+0530 (India Standard Time) | success Successfully launched the app on the simulator
+
+Success | IonicTopBar | runApp | Wed May 13 2020, 14:23:55 GMT+0530 (India Standard Time) | Check out your App on simulator
+ Info | BuilderEditor | saveFile | Wed May 13 2020, 14:24:05 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/fontIOS/reactnative/fontIOS/src/pages/home/HomeStyle.js
+ Info | BuilderEditor | saveFile | Wed May 13 2020, 14:24:28 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/fontIOS/reactnative/fontIOS/src/pages/home/HomeStyle.js
+ Info | BuilderEditor | saveFile | Wed May 13 2020, 14:24:39 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/fontIOS/reactnative/fontIOS/src/pages/home/HomeStyle.js
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:24:44 GMT+0530 (India Standard Time) | info Found Xcode workspace "fontIOS.xcworkspace"
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:24:45 GMT+0530 (India Standard Time) | info Building (using "xcodebuild -workspace fontIOS.xcworkspace -configuration Debug -scheme fontIOS -destination id=EFA18E02-149B-4F19-A5E2-87F976B78872")
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:24:49 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:24:49 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:24:50 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:24:52 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:24:52 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:24:52 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:24:52 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:24:52 GMT+0530 (India Standard Time) | ........
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:24:52 GMT+0530 (India Standard Time) | ............
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:24:55 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:24:55 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:24:55 GMT+0530 (India Standard Time) | 
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:24:58 GMT+0530 (India Standard Time) | info Installing "/Users/aishwaryadodmani/Library/Developer/Xcode/DerivedData/fontIOS-dtwnncfakfwzbacmdjwpalfzacpw/Build/Products/Debug-iphonesimulator/fontIOS.app"
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:24:59 GMT+0530 (India Standard Time) | info Launching "com.aish"
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:25:00 GMT+0530 (India Standard Time) | success Successfully launched the app on the simulator
+
+Success | IonicTopBar | runApp | Wed May 13 2020, 14:25:01 GMT+0530 (India Standard Time) | Check out your App on simulator
+ Info | BuilderEditor | saveFile | Wed May 13 2020, 14:26:09 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/fontIOS/reactnative/fontIOS/src/pages/home/HomeStyle.js
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:27:59 GMT+0530 (India Standard Time) | info Found Xcode workspace "fontIOS.xcworkspace"
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:27:59 GMT+0530 (India Standard Time) | info Building (using "xcodebuild -workspace fontIOS.xcworkspace -configuration Debug -scheme fontIOS -destination id=EFA18E02-149B-4F19-A5E2-87F976B78872")
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:28:01 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:28:01 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:28:02 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:28:02 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:28:02 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:28:02 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:28:02 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:28:02 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:28:02 GMT+0530 (India Standard Time) | ....
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:28:02 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:28:02 GMT+0530 (India Standard Time) | ......
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:28:02 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:28:02 GMT+0530 (India Standard Time) | 
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:28:04 GMT+0530 (India Standard Time) | info Installing "/Users/aishwaryadodmani/Library/Developer/Xcode/DerivedData/fontIOS-dtwnncfakfwzbacmdjwpalfzacpw/Build/Products/Debug-iphonesimulator/fontIOS.app"
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:28:05 GMT+0530 (India Standard Time) | info Launching "com.aish"
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:28:05 GMT+0530 (India Standard Time) | success Successfully launched the app on the simulator
+
+Success | IonicTopBar | runApp | Wed May 13 2020, 14:28:05 GMT+0530 (India Standard Time) | Check out your App on simulator
+ Info | projectHandler | loadProjectDatabase | Wed May 13 2020, 14:28:59 GMT+0530 (India Standard Time) | Initializing DBs for workspace  /Users/aishwaryadodmani/Desktop/fontIOS
+ Info | datasourceDB | init | Wed May 13 2020, 14:28:59 GMT+0530 (India Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Wed May 13 2020, 14:28:59 GMT+0530 (India Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Wed May 13 2020, 14:28:59 GMT+0530 (India Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Wed May 13 2020, 14:28:59 GMT+0530 (India Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Wed May 13 2020, 14:28:59 GMT+0530 (India Standard Time) | App DB initialized
+ Info | settingsDB | init | Wed May 13 2020, 14:28:59 GMT+0530 (India Standard Time) | SettingsDB initialized
+Success | projectHandler | loadProjectDatabase | Wed May 13 2020, 14:28:59 GMT+0530 (India Standard Time) | Initialized all the DBs
+ Info | BuilderEditor | saveFile | Wed May 13 2020, 14:29:24 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/fontIOS/reactnative/fontIOS/src/pages/home/HomeStyle.js
+ Info | BuilderEditor | saveFile | Wed May 13 2020, 14:29:24 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/fontIOS/reactnative/fontIOS/src/pages/home/HomeStyle.js
+ Info | BuilderEditor | saveFile | Wed May 13 2020, 14:29:24 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/fontIOS/reactnative/fontIOS/src/pages/home/HomeStyle.js
+ Info | ImportExportConfig | importConfiguration | Wed May 13 2020, 14:29:25 GMT+0530 (India Standard Time) | Imported project configuration successfully
+ Info | BuilderEditor | saveFile | Wed May 13 2020, 14:29:33 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/fontIOS/reactnative/fontIOS/src/pages/home/HomeStyle.js
+ Info | BuilderEditor | saveFile | Wed May 13 2020, 14:29:33 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/fontIOS/reactnative/fontIOS/src/pages/home/HomeStyle.js
+ Info | BuilderEditor | saveFile | Wed May 13 2020, 14:29:34 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/fontIOS/reactnative/fontIOS/src/pages/home/HomeStyle.js
+ Info | BuilderEditor | saveFile | Wed May 13 2020, 14:29:42 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/fontIOS/reactnative/fontIOS/src/pages/home/Home.js
+ Info | BuilderEditor | saveFile | Wed May 13 2020, 14:29:42 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/fontIOS/reactnative/fontIOS/src/pages/home/Home.js
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:29:48 GMT+0530 (India Standard Time) | info Found Xcode workspace "fontIOS.xcworkspace"
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:29:49 GMT+0530 (India Standard Time) | info Building (using "xcodebuild -workspace fontIOS.xcworkspace -configuration Debug -scheme fontIOS -destination id=EFA18E02-149B-4F19-A5E2-87F976B78872")
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:29:51 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:29:51 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:29:51 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:29:51 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:29:51 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:29:51 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:29:51 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:29:51 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:29:51 GMT+0530 (India Standard Time) | ....
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:29:51 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:29:51 GMT+0530 (India Standard Time) | .......
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:29:51 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:29:52 GMT+0530 (India Standard Time) | 
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:29:53 GMT+0530 (India Standard Time) | info Installing "/Users/aishwaryadodmani/Library/Developer/Xcode/DerivedData/fontIOS-dtwnncfakfwzbacmdjwpalfzacpw/Build/Products/Debug-iphonesimulator/fontIOS.app"
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:29:54 GMT+0530 (India Standard Time) | info Launching "com.aish"
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:29:54 GMT+0530 (India Standard Time) | success Successfully launched the app on the simulator
+
+Success | IonicTopBar | runApp | Wed May 13 2020, 14:29:54 GMT+0530 (India Standard Time) | Check out your App on simulator
+ Info | BuilderEditor | saveFile | Wed May 13 2020, 14:30:18 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/fontIOS/reactnative/fontIOS/src/pages/home/Home.js
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:30:22 GMT+0530 (India Standard Time) | info Found Xcode workspace "fontIOS.xcworkspace"
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:30:22 GMT+0530 (India Standard Time) | info Building (using "xcodebuild -workspace fontIOS.xcworkspace -configuration Debug -scheme fontIOS -destination id=EFA18E02-149B-4F19-A5E2-87F976B78872")
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:30:24 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:30:24 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:30:24 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:30:25 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:30:25 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:30:25 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:30:25 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:30:25 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:30:25 GMT+0530 (India Standard Time) | ............
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:30:25 GMT+0530 (India Standard Time) | ........
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:30:26 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:30:26 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:30:27 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:30:27 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:30:27 GMT+0530 (India Standard Time) | 
+
+ Error | IonicTopBar | runApp | Wed May 13 2020, 14:30:29 GMT+0530 (India Standard Time) | 2020-05-13 14:30:28.474 xcodebuild[15941:174100] +dataWithFirstBytes:1024 ofFile:"/Users/aishwaryadodmani/Desktop/fontIOS/reactnative/fontIOS/assets/fonts/Lobster-Regular.ttf" failed, errno = 2
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157314:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157271:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157311:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:84615:31)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | IonicTopBar | runApp | Wed May 13 2020, 14:30:29 GMT+0530 (India Standard Time) | info Installing "/Users/aishwaryadodmani/Library/Developer/Xcode/DerivedData/fontIOS-dtwnncfakfwzbacmdjwpalfzacpw/Build/Products/Debug-iphonesimulator/fontIOS.app"
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:30:30 GMT+0530 (India Standard Time) | info Launching "com.aish"
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:30:31 GMT+0530 (India Standard Time) | success Successfully launched the app on the simulator
+
+Success | IonicTopBar | runApp | Wed May 13 2020, 14:30:31 GMT+0530 (India Standard Time) | Check out your App on simulator
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:35:47 GMT+0530 (India Standard Time) | info Found Xcode workspace "fontIOS.xcworkspace"
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:35:47 GMT+0530 (India Standard Time) | info Launching iPhone 11 (iOS 13.3)
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:35:54 GMT+0530 (India Standard Time) | info Building (using "xcodebuild -workspace fontIOS.xcworkspace -configuration Debug -scheme fontIOS -destination id=EFA18E02-149B-4F19-A5E2-87F976B78872")
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:35:56 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:35:57 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:35:57 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:35:57 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:35:57 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:35:57 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:35:57 GMT+0530 (India Standard Time) | ......
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:35:57 GMT+0530 (India Standard Time) | .........
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:35:58 GMT+0530 (India Standard Time) | 
+
+ Error | IonicTopBar | runApp | Wed May 13 2020, 14:35:59 GMT+0530 (India Standard Time) | 2020-05-13 14:35:58.794 xcodebuild[16148:178315] +dataWithFirstBytes:1024 ofFile:"/Users/aishwaryadodmani/Desktop/fontIOS/reactnative/fontIOS/assets/fonts/Lobster-Regular.ttf" failed, errno = 2
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157314:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157271:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157311:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:84615:31)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | IonicTopBar | runApp | Wed May 13 2020, 14:36:00 GMT+0530 (India Standard Time) | info Installing "/Users/aishwaryadodmani/Library/Developer/Xcode/DerivedData/fontIOS-dtwnncfakfwzbacmdjwpalfzacpw/Build/Products/Debug-iphonesimulator/fontIOS.app"
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:36:01 GMT+0530 (India Standard Time) | info Launching "com.aish"
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:36:01 GMT+0530 (India Standard Time) | success Successfully launched the app on the simulator
+
+Success | IonicTopBar | runApp | Wed May 13 2020, 14:36:01 GMT+0530 (India Standard Time) | Check out your App on simulator
+ Info | BuilderEditor | saveFile | Wed May 13 2020, 14:37:55 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/fontIOS/reactnative/fontIOS/src/pages/home/Home.js
+ Info | BuilderEditor | saveFile | Wed May 13 2020, 14:38:39 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/fontIOS/reactnative/fontIOS/src/pages/home/HomeStyle.js
+ Info | BuilderEditor | saveFile | Wed May 13 2020, 14:39:45 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/fontIOS/reactnative/fontIOS/src/pages/home/HomeStyle.js
+ Info | BuilderEditor | saveFile | Wed May 13 2020, 14:39:52 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/fontIOS/reactnative/fontIOS/src/pages/home/HomeStyle.js
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:42:11 GMT+0530 (India Standard Time) | info Found Xcode workspace "fontIOS.xcworkspace"
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:42:11 GMT+0530 (India Standard Time) | info Building (using "xcodebuild -workspace fontIOS.xcworkspace -configuration Debug -scheme fontIOS -destination id=EFA18E02-149B-4F19-A5E2-87F976B78872")
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:42:14 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:42:14 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:42:14 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:42:15 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:42:15 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:42:16 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:42:16 GMT+0530 (India Standard Time) | ......
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:42:16 GMT+0530 (India Standard Time) | ...........
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:42:16 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:42:16 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:42:16 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:42:18 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:42:18 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:42:18 GMT+0530 (India Standard Time) | 
+
+ Error | IonicTopBar | runApp | Wed May 13 2020, 14:42:19 GMT+0530 (India Standard Time) | 2020-05-13 14:42:19.107 xcodebuild[16933:182897] +dataWithFirstBytes:1024 ofFile:"/Users/aishwaryadodmani/Desktop/fontIOS/reactnative/fontIOS/assets/fonts/Lobster-Regular.ttf" failed, errno = 2
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157314:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157271:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157311:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:84615:31)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | IonicTopBar | runApp | Wed May 13 2020, 14:42:19 GMT+0530 (India Standard Time) | info Installing "/Users/aishwaryadodmani/Library/Developer/Xcode/DerivedData/fontIOS-dtwnncfakfwzbacmdjwpalfzacpw/Build/Products/Debug-iphonesimulator/fontIOS.app"
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:42:20 GMT+0530 (India Standard Time) | info Launching "com.aish"
+
+ Info | IonicTopBar | runApp | Wed May 13 2020, 14:42:21 GMT+0530 (India Standard Time) | success Successfully launched the app on the simulator
+
+Success | IonicTopBar | runApp | Wed May 13 2020, 14:42:21 GMT+0530 (India Standard Time) | Check out your App on simulator
+ Info | projectHandler | loadProjectDatabase | Wed May 13 2020, 21:40:38 GMT+0530 (India Standard Time) | Initializing DBs for workspace  /Users/aishwaryadodmani/Desktop/fontIOS
+ Info | datasourceDB | init | Wed May 13 2020, 21:40:38 GMT+0530 (India Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Wed May 13 2020, 21:40:38 GMT+0530 (India Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Wed May 13 2020, 21:40:38 GMT+0530 (India Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Wed May 13 2020, 21:40:38 GMT+0530 (India Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Wed May 13 2020, 21:40:38 GMT+0530 (India Standard Time) | App DB initialized
+ Info | settingsDB | init | Wed May 13 2020, 21:40:38 GMT+0530 (India Standard Time) | SettingsDB initialized
+Success | projectHandler | loadProjectDatabase | Wed May 13 2020, 21:40:38 GMT+0530 (India Standard Time) | Initialized all the DBs
+ Info | ImportExportConfig | importConfiguration | Wed May 13 2020, 21:41:07 GMT+0530 (India Standard Time) | Imported project configuration successfully
+ Info | projectHandler | loadProjectDatabase | Wed May 13 2020, 23:37:16 GMT+0530 (India Standard Time) | Initializing DBs for workspace  /Users/aishwaryadodmani/Desktop/fontIOS
+ Info | datasourceDB | init | Wed May 13 2020, 23:37:16 GMT+0530 (India Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Wed May 13 2020, 23:37:16 GMT+0530 (India Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Wed May 13 2020, 23:37:16 GMT+0530 (India Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Wed May 13 2020, 23:37:16 GMT+0530 (India Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Wed May 13 2020, 23:37:16 GMT+0530 (India Standard Time) | App DB initialized
+ Info | settingsDB | init | Wed May 13 2020, 23:37:16 GMT+0530 (India Standard Time) | SettingsDB initialized
+Success | projectHandler | loadProjectDatabase | Wed May 13 2020, 23:37:16 GMT+0530 (India Standard Time) | Initialized all the DBs
